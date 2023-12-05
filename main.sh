@@ -1,1 +1,0 @@
-bash mc.sh
